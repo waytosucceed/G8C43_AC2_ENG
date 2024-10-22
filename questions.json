@@ -1,0 +1,242 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "Which of the following sentences uses a comma correctly according to the rule of compound sentences?",
+      "options": [
+          "She likes to swim, and he prefers to run.",
+          "I love coffee and tea.",
+          "They are friends but they rarely see each other.",
+          "She studied all night, and passed the exam."
+      ],
+      "correct": 0,
+      "explanation": "This sentence uses a comma before the coordinating conjunction 'and,' which correctly links two independent clauses."
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "Select the sentence with the correct comma usage according to the rule of compound sentences:",
+      "options": [
+          "Tom wanted to go to the park, but it started to rain.",
+          "The dog barked loudly and ran through the yard.",
+          "She can either stay home or go to the party.",
+          "They went to the beach, but forgot their towels."
+      ],
+      "correct": 0,
+      "explanation": "The comma before 'but' correctly separates two independent clauses: 'Tom wanted to go to the park' and 'it started to rain.' Option b) is incorrect as there are no independent clauses being separated by 'and.' Option c) does not require a comma because it connects two actions under a single subject. Option d) is incorrect because the second part 'forgot their towels' does not have a new subject, so no comma is needed."
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "Choose the sentence that demonstrates correct comma placement according to the rule of compound sentences:",
+      "options": [
+          "He studied hard, and aced the test.",
+          "The sun was shining, and we decided to go for a hike.",
+          "She can either stay home or go to the party.",
+          "They ran fast, and won the race."
+      ],
+      "correct": 1,
+      "explanation": "The comma before 'and' separates two independent clauses: 'The sun was shining' and 'we decided to go for a hike.' Option a) is incorrect because 'aced the test' does not have a new subject. Option c) does not require a comma as it links two actions under one subject. Option d) incorrectly uses a comma before 'and' as it joins two actions without a new subject."
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "Which of the following sentences has a comma mistake?",
+      "options": [
+          "I enjoy reading, writing, and painting.",
+          "When she arrived, the party had already started.",
+          "He likes to play basketball, but his brother prefers soccer.",
+          "They will go hiking, and they will also go camping."
+      ],
+      "correct": 3,
+      "explanation": "The comma before 'and' is unnecessary because 'they will also go camping' does not have a new subject; the correct form should be: 'They will go hiking and they will also go camping.' Option a) is correct as it correctly lists items with commas. Option b) is also correct because it appropriately separates the dependent and independent clauses. Option c) correctly uses a comma to separate two independent clauses."
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "Identify the sentence that incorrectly uses a comma:",
+      "options": [
+          "The teacher, explained the assignment clearly.",
+          "I wanted to see the movie, but it was sold out.",
+          "My friends are coming over for dinner.",
+          "She enjoyed the concert, and the atmosphere was lively."
+      ],
+      "correct": 0,
+      "explanation": "The comma is unnecessary because it incorrectly separates the subject 'The teacher' from the verb 'explained.' The correct form should be: 'The teacher explained the assignment clearly.' Option b) is correct as it appropriately uses a comma before 'but' to separate independent clauses. Option d) is correct as it properly separates two independent clauses with a comma."
+  },
+  {
+      "questionNo": "Q6.",
+      "question": "Which sentence contains an error with comma usage?",
+      "options": [
+          "While we were hiking, the weather turned cold.",
+          "I like to visit museums, and explore new cities.",
+          "She was tired, so she went to bed early.",
+          "After dinner, we watched a movie together."
+      ],
+      "correct": 1,
+      "explanation": "In this sentence, the comma before 'and' is unnecessary because the subject 'I' performs both actions—'visit museums' and 'explore new cities'—forming a compound predicate. The correct form should be: 'I like to visit museums and explore new cities.' Option a) is correct because it uses a comma after the dependent clause 'While we were hiking.' Option c) is correct because it separates two independent clauses with a comma before the coordinating conjunction 'so.' Option d) is correct as it uses a comma after the introductory phrase 'After dinner.'"
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Identify the sentence with incorrect comma usage:",
+    "options": [
+      "We bought ice cream, and then walked around the park.",
+      "If you are free tomorrow, we can meet for coffee.",
+      "The dog barked loudly, but no one came to check.",
+      "He loves football and spends every weekend playing."
+    ],
+    "correct": 0,
+    "explanation": "In option a), the comma before 'and' is unnecessary because the subject 'We' performs both actions—'bought ice cream' and 'walked around the park.' This is a compound predicate, so no comma is needed. The sentence should read: 'We bought ice cream and then walked around the park.' The other options are correct as they follow proper comma usage."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Which sentence has a comma mistake?",
+    "options": [
+      "When I finished my homework, I watched some TV.",
+      "They ate dinner, and then went to the movies.",
+      "She smiled at me and waved.",
+      "After the concert ended, we went out for ice cream."
+    ],
+    "correct": 1,
+    "explanation": "In option b), the comma before 'and' is incorrect because 'They' is performing two actions—'ate dinner' and 'went to the movies.' The sentence is a compound predicate and doesn’t need a comma. The correct sentence should be: 'They ate dinner and then went to the movies.' The other options are correct."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which sentence incorrectly uses a comma?",
+    "options": [
+      "We stayed up late because the movie was interesting.",
+      "Although it was raining, we decided to go outside.",
+      "She likes to paint, and sketch in her free time.",
+      "Before going to bed, I always read a book."
+    ],
+    "correct": 2,
+    "explanation": "In option c), the comma before 'and' is incorrect because 'She' is performing both actions—'paint' and 'sketch'—making it a compound predicate. No comma is needed. The other options are correct."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Find the sentence with incorrect comma usage:",
+    "options": [
+      "I wanted to visit the museum, but it was closed.",
+      "If the weather is nice tomorrow, we will have a picnic.",
+      "She runs every morning, and practises yoga in the afternoon.",
+      "Because the traffic was heavy, we arrived late to the meeting."
+    ],
+    "correct": 2,
+    "explanation": "In option c), the comma before 'and' is unnecessary because 'She' is the subject performing both actions—'runs every morning' and 'practises yoga in the afternoon'—making it a compound predicate. The other options are correct."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Identify the sentence with a comma error:",
+    "options": [
+      "We went to the park, and had a picnic by the lake.",
+      "After the meeting, we grabbed lunch together.",
+      "The kids were playing, but the adults were chatting.",
+      "Even though it was late, he continued working."
+    ],
+    "correct": 0,
+    "explanation": "In option a), the comma before 'and' is unnecessary because 'We' is performing both actions—'went to the park' and 'had a picnic'—forming a compound predicate. The other options are correct."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Choose the correct completion of the sentence: Although the weather was cold, ______.",
+    "options": [
+      "we went hiking",
+      "we went hiking,",
+      "but we went hiking",
+      "we went hiking but"
+    ],
+    "correct": 0,
+    "explanation": "This sentence follows Rule 3 (use a comma after a dependent clause at the beginning of a sentence). 'Although the weather was cold' is a dependent clause, and 'we went hiking' is an independent clause. No comma is needed between 'we went hiking' and the end of the sentence. The other options are incorrect."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Choose the correct completion of the sentence: Despite the team’s best efforts, ______.",
+    "options": [
+      "they were unable to secure the victory and the crowd was disappointed",
+      "they were unable to secure the victory, and the crowd was disappointed",
+      "but they were unable to secure the victory and the crowd was disappointed",
+      "they were unable to secure the victory and, the crowd was disappointed"
+    ],
+    "correct": 1,
+    "explanation": "This sentence follows Rule 1 (place a comma before the coordinating conjunction in compound sentences). 'They were unable to secure the victory' and 'the crowd was disappointed' are independent clauses, so a comma before 'and' is necessary."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Choose the correct completion of the sentence: The explorers gathered their supplies ______.",
+    "options": [
+      "and set out on a treacherous journey into the unknown",
+      "but they set out on a treacherous journey into the unknown",
+      ", but set out on a treacherous journey into the unknown",
+      "set out on a treacherous journey into the unknown"
+    ],
+    "correct": 0,
+    "explanation": "The sentence follows Rule 2 (no comma when one subject performs two actions). 'The explorers' is the subject, and they perform two actions—'gathered their supplies' and 'set out on a treacherous journey.' No comma is needed before 'and.' The other options are incorrect."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Choose the correct completion of the sentence: The lawyer prepared her case ______.",
+    "options": [
+      "and presented it in court confidently",
+      "but presented it in court confidently",
+      ", and presented it in court confidently",
+      "presented it in court confidently"
+    ],
+    "correct": 0,
+    "explanation": "Option a) correctly connects the two actions of the subject with 'and.' The other options introduce unnecessary commas or use contrast, which is not suitable here."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Choose the correct completion of the sentence: The musician composed the melody ______.",
+    "options": [
+      "and recorded it in the studio the same day",
+      ", and recorded it in the studio the same day",
+      "and, recorded it in the studio the same day",
+      "but recorded it in the studio the same day"
+    ],
+    "correct": 0,
+    "explanation": "Option a) correctly follows Rule 2, connecting two actions of the subject 'The musician' with 'and.' The other options add unnecessary commas or introduce contrast, which is not required here."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Replace the incorrect conjunction in the following sentence: 'The athlete practised her routine but won the competition effortlessly.'",
+    "options": [
+      "Change 'but' to 'and.'",
+      "Change 'but' to 'because.'",
+      "Change 'but' to 'so.'",
+      "No change needed."
+    ],
+    "correct": 0,
+    "explanation": "'But' introduces contrast, which doesn’t fit the context of two actions that are sequential or complementary. The correct conjunction is 'and.'"
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Replace the incorrect conjunction in the following sentence: 'The musician played the piano but composed a new melody at the same time.'",
+    "options": [
+      "Change 'but' to 'and.'",
+      "Change 'but' to 'because.'",
+      "Change 'but' to 'while.'",
+      "No change needed."
+    ],
+    "correct": 0,
+    "explanation": "'But' introduces contrast, which is inappropriate here because both actions—playing the piano and composing a melody—are happening simultaneously. The correct conjunction is 'and.'"
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Decide whether the following sentence needs a comma added or removed: 'The writer outlined the plot, and began drafting the first chapter.'",
+    "options": [
+      "Add a comma after 'drafting.'",
+      "Remove the comma after 'plot.'",
+      "No change.",
+      "Add a comma after 'began.'"
+    ],
+    "correct": 1,
+    "explanation": "Since the subject performs two actions, 'outlined' and 'began,' no comma is needed before 'and.' The other options suggest unnecessary changes."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Decide whether the following sentence needs a comma added or removed:<br> 'The engineer analysed the data, and presented the results to the team.'",
+    "options": [
+      "Add a comma after 'results.'",
+      "Remove the comma after 'data.'",
+      "No change.",
+      "Add a comma after 'presented.'"
+    ],
+    "correct": 1,
+    "explanation": "The subject performs two actions—'analysed the data' and 'presented the results'—so no comma is needed before 'and.' The other options suggest unnecessary changes."
+  }
+]
